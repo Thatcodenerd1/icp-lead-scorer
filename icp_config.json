@@ -1,0 +1,14 @@
+{
+  "ideal_headcount_range": [50, 500],
+  "target_industries": ["SaaS", "FinTech", "HealthTech", "EdTech", "DevTools", "Security", "Data & AI"],
+  "target_tech_stack": ["Salesforce", "HubSpot", "Segment", "Stripe", "Snowflake", "Intercom", "Outreach"],
+  "funding_stages": ["Series A", "Series B", "Series C"],
+  "min_headcount_growth_pct": 10,
+  "weights": {
+    "headcount": 0.25,
+    "industry": 0.20,
+    "tech_stack": 0.20,
+    "funding": 0.20,
+    "growth": 0.15
+  }
+}
