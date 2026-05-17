@@ -1,0 +1,9 @@
+company,industry,headcount,funding_stage,headcount_growth_pct,tech_stack
+Acme SaaS Co,SaaS,230,Series B,18,"Salesforce,HubSpot,Segment"
+BetaFinance,FinTech,85,Series A,25,"Stripe,Salesforce"
+GammaTech,HealthTech,410,Series C,12,"HubSpot,Intercom"
+DeltaHR,HRTech,1200,Growth,5,"Workday,SAP"
+ZetaDevCo,DevTools,150,Series B,30,"GitHub,Datadog,Segment"
+EtaEd,EdTech,90,Series A,20,"Salesforce,HubSpot"
+ThetaSec,Security,300,Series C,15,"Okta,Salesforce,Splunk"
+KappaAI,Data & AI,200,Series B,40,"Snowflake,dbt,Segment"
